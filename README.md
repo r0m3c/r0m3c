@@ -55,4 +55,4 @@
 <a href="leandrogamarra@rocketmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-leandrogamarra@rocketmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [r0m3c](https://github.com/r0m3c/r0m3c)
+⭐️ From [r0m3c](https://github.com/r0m3c)
