@@ -12,6 +12,7 @@
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Swift](https://camo.githubusercontent.com/ca12405560eda1428010c0094efcf0ef2e9f2339e6f6c6e08b9dc0a12c97ca25/68747470733a2f2f73776966742e6f72672f6173736574732f696d616765732f73776966742e737667)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
