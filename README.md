@@ -53,7 +53,7 @@
 <p align="left">
 <a href="www.linkedin.com/in/leandro-g-4689a3120"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="leandrogamarra@rocketmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="leandrogamarra@rocketmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-leandrogamarra@rocketmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [r0m3c](https://github.com/r0m3c/r0m3c)
