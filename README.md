@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Aspiring Software Engineer and IOS Developer.
 - 🎓 &nbsp; Studying Computer Science/Information Security at John Jay College of Criminal Justice.
-- 💼 &nbsp; CodePath IOS Development Tech Fellow (Fall 2021 & Fall 2022)
+- 💼 &nbsp; CodePath IOS Development Tech Fellow (Fall 2021 & Spring 2022)
 - 🌱 &nbsp; Learning more about SwiftUI/Python frameworks.
 - ✍️ &nbsp; Pursuing Stock Market trading & playing the piano as hobbies/side hustles.
 
