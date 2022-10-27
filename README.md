@@ -4,6 +4,8 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
+
+- 💼 &nbsp; John Jay College: College Assistant (C++)
 - 🤔 &nbsp; Software Engineer Intern at Nextdoor (Summer 2022)
 - 🤔 &nbsp; Aspiring Software Engineer and IOS Developer.
 - 🎓 &nbsp; Studying Computer Science/Information Security at John Jay College of Criminal Justice.
