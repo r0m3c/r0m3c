@@ -40,12 +40,13 @@
 
 <br/>
 
-<!-- <a href=""> -->
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=r0m3c&theme=buefy&show_icons=true" /> -->
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r0m3c&theme=buefy&layout=compact" /> -->
-<!-- </a> -->
+<h3> 🛠 &nbsp;My Stats</h3>
 
 ![Leandro's github stats](https://github-readme-stats.vercel.app/api?username=r0m3c&show_icons=true&theme=radical)
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r0m3c&layout=compact)](https://github.com/r0m3c/)
 
 <br/>
 
