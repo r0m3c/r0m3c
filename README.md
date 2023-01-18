@@ -40,10 +40,10 @@
 
 <br/>
 
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=r0m3c&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r0m3c&theme=buefy&layout=compact" />
-</a>
+<!-- <a href=""> -->
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=r0m3c&theme=buefy&show_icons=true" /> -->
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r0m3c&theme=buefy&layout=compact" /> -->
+<!-- </a> -->
 
 ![Leandro's github stats](https://github-readme-stats.vercel.app/api?username=r0m3c&show_icons=true&theme=radical)
 
