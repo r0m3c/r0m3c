@@ -6,7 +6,9 @@
 
 
 - 💼 &nbsp; John Jay College: College Assistant (C++)
+- 🤔 &nbsp; Lead Teaching Assistant at CUNY - Tech Talent Pipeline (Summer 2023)
 - 🤔 &nbsp; Software Engineer Intern at Nextdoor (Summer 2022)
+- 🤔 &nbsp; IT Consultant Intern at United Way of NYC (January 2021)
 - 🤔 &nbsp; Aspiring Software Engineer and IOS Developer.
 - 🎓 &nbsp; Studying Computer Science/Information Security at John Jay College of Criminal Justice.
 - 💼 &nbsp; President of Computer Science Society Club at John Jay / [Club Github](https://github.com/jjcss)
